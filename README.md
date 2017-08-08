@@ -37,7 +37,7 @@ To run the code:
 
 Contribution
 ----------
-listtr is open-source. Feel free to fork and contribute
+listtr is open-source. Feel free to fork and contribute.
 
 Current contributors:
 
